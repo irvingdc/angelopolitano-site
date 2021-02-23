@@ -8,6 +8,7 @@ import { Link } from "gatsby"
 import Img from "gatsby-image"
 
 export default ({ data }) => {
+  console.log("20210222")
   return (
     <div className={classes.container}>
       <Nav
@@ -51,7 +52,7 @@ export default ({ data }) => {
             </h2>
             <p>
               <strong>Soporte Técnico</strong> de Refrigeración{" "}
-              <strong>a Domicilio</strong> en <strong>Aguascalientes</strong> y area
+              <strong>a Domicilio</strong> en <strong>Puebla</strong> y area
               metropolitana.
             </p>
             <Link to="/refrigeracion/">
@@ -69,7 +70,7 @@ export default ({ data }) => {
             </h2>
             <p>
               <strong>Soporte Técnico</strong> de Linea Blanca{" "}
-              <strong>a Domicilio</strong> en <strong>Aguascalientes</strong> y area
+              <strong>a Domicilio</strong> en <strong>Puebla</strong> y area
               metropolitana.
             </p>
 
@@ -88,7 +89,7 @@ export default ({ data }) => {
               </Link>
             </h2>
             <p>
-              <strong>Aires Acondicionados</strong> en <strong>Aguascalientes</strong> y
+              <strong>Aires Acondicionados</strong> en <strong>Puebla</strong> y
               area metropolitana.
             </p>
             <Link to="/aire-acondicionado/">

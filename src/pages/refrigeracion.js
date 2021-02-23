@@ -14,7 +14,7 @@ export default ({ data }) => (
     <Nav
       white
       title="Servicio Angelopolitano | Refrigeración"
-      description="Soporte Técnico y Reparación de Refrigeración a Domicilio en Aguascalientes y area metropolitana."
+      description="Soporte Técnico y Reparación de Refrigeración a Domicilio en Puebla y area metropolitana."
       canonical="/refrigeracion"
     />
     <div className={classes.intro}>
@@ -22,13 +22,13 @@ export default ({ data }) => (
         <strong>
           Soporte Técnico y Reparación de Refrigeración a Domicilio
         </strong>{" "}
-        en Aguascalientes.
+        en Puebla.
         <div>
-          <a rel="noopener noreferrer" href="tel:4493918113">
+          <a rel="noopener noreferrer" href="tel:2223507488">
             Llámanos Ahora{" "}
-            <i rel="noopener noreferrer" href="tel:4493918113">
+            <i rel="noopener noreferrer" href="tel:2223507488">
               <img src={phone} alt="" />
-              <b>449 391 8113</b>
+              <b>222 350 7488</b>
             </i>
           </a>
         </div>

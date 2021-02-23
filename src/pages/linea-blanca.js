@@ -14,19 +14,19 @@ export default ({ data }) => (
     <Nav
       white
       title="Servicio Angelopolitano | Lavado y Secado"
-      description="Soporte Técnico de Linea Blanca a Domicilio en Aguascalientes y area metropolitana."
+      description="Soporte Técnico de Linea Blanca a Domicilio en Puebla y area metropolitana."
       canonical="/lavado-secado"
     />
     <div className={classes.intro}>
       <h1>
         <strong>Soporte Técnico</strong> y reparación de lavadoras y secadoras
-        en Aguascalientes.
+        en Puebla.
         <div>
-          <a rel="noopener noreferrer" href="tel:4493918113">
+          <a rel="noopener noreferrer" href="tel:2223507488">
             Llámanos Ahora{" "}
-            <i rel="noopener noreferrer" href="tel:4493918113">
+            <i rel="noopener noreferrer" href="tel:2223507488">
               <img src={phone} alt="" />
-              <b>449 391 8113</b>
+              <b>222 350 7488</b>
             </i>
           </a>
         </div>

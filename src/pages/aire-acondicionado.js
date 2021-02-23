@@ -14,20 +14,20 @@ export default ({ data }) => (
     <Nav
       white
       title="Servicio Angelopolitano | Aire Acondicionado"
-      description="Soporte Técnico, Instalación y Reparación de Aire Acondicionado a Domicilio en Aguascalientes."
+      description="Soporte Técnico, Instalación y Reparación de Aire Acondicionado a Domicilio en Puebla."
       canonical="/aire-acondicionado"
     />
     <div className={classes.intro}>
       <h1>
         <strong>Soporte Técnico</strong>,<br />
         <strong>Instalación</strong> y <strong>Reparación</strong> de Aire
-        Acondicionado a Domicilio en Aguascalientes.
+        Acondicionado a Domicilio en Puebla.
         <div>
-          <a rel="noopener noreferrer" href="tel:4493918113">
+          <a rel="noopener noreferrer" href="tel:2223507488">
             Llámanos Ahora{" "}
-            <i rel="noopener noreferrer" href="tel:4493918113">
+            <i rel="noopener noreferrer" href="tel:2223507488">
               <img src={phone} alt="" />
-              <b>449 391 8113</b>
+              <b>222 350 7488</b>
             </i>
           </a>
         </div>
